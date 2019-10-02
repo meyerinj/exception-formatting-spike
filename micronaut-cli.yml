@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.opes
+---
+testFramework: junit
+sourceLanguage: java
